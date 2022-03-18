@@ -18,7 +18,7 @@ namespace CalculateArea
             {
                 case "1":
                     Square square = new Square(-5);
-                    Console.WriteLine($"Square area is {square.CalcArea()}");
+                    Console.WriteLine($"Square area : {square.CalcArea()}");
                     break;
 
                 case "2":
