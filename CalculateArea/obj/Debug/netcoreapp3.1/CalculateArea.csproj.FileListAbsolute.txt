@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.exe
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.deps.json
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.dll
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.pdb
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.dll
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.pdb
+C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.genruntimeconfig.cache
