@@ -12,3 +12,17 @@ C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\bin\Debug\netcoreapp
 C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.dll
 C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.pdb
 C:\Users\User\Desktop\HOMETASKS\CalculateArea\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.genruntimeconfig.cache
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.exe
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.deps.json
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.runtimeconfig.json
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.runtimeconfig.dev.json
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.dll
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\bin\Debug\netcoreapp3.1\CalculateArea.pdb
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.AssemblyInfo.cs
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.dll
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.pdb
+C:\Users\tu7knjupn\Desktop\Abstarct-polymorphism-interface-sealed\CalculateArea\obj\Debug\netcoreapp3.1\CalculateArea.genruntimeconfig.cache

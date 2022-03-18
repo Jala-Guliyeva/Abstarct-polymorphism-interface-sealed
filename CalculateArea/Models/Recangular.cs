@@ -23,7 +23,7 @@ namespace CalculateArea.Models
                     _width = value;
                 }
                 else
-                    Console.WriteLine("Width can not 0 or negative");
+                    Console.WriteLine("It is not possible");
                 
             }
         }
@@ -39,7 +39,7 @@ namespace CalculateArea.Models
                 if(value> 0)
                     _length = value;
                 else
-                    Console.WriteLine("Length can not 0 or negative");
+                    Console.WriteLine("It is not possible");
             }
         }
 
@@ -51,8 +51,8 @@ namespace CalculateArea.Models
 
         public override int CalcArea()
         {
-            _length = 10;
-            _width = 8;
+            _length = 8;
+            _width = 5;
             int area = _width * _length;
             return  area;
         }

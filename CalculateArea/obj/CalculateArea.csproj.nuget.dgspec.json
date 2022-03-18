@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOSHIBA\\Desktop\\CalcArea\\CalculateArea\\CalculateArea.csproj": {}
+    "C:\\Users\\tu7knjupn\\Desktop\\Abstarct-polymorphism-interface-sealed\\CalculateArea\\CalculateArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOSHIBA\\Desktop\\CalcArea\\CalculateArea\\CalculateArea.csproj": {
+    "C:\\Users\\tu7knjupn\\Desktop\\Abstarct-polymorphism-interface-sealed\\CalculateArea\\CalculateArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\CalcArea\\CalculateArea\\CalculateArea.csproj",
+        "projectUniqueName": "C:\\Users\\tu7knjupn\\Desktop\\Abstarct-polymorphism-interface-sealed\\CalculateArea\\CalculateArea.csproj",
         "projectName": "CalculateArea",
-        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\CalcArea\\CalculateArea\\CalculateArea.csproj",
-        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\CalcArea\\CalculateArea\\obj\\",
+        "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\Abstarct-polymorphism-interface-sealed\\CalculateArea\\CalculateArea.csproj",
+        "packagesPath": "C:\\Users\\tu7knjupn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tu7knjupn\\Desktop\\Abstarct-polymorphism-interface-sealed\\CalculateArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu7knjupn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

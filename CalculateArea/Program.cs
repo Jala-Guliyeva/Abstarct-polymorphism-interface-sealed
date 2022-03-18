@@ -11,26 +11,26 @@ namespace CalculateArea
             Console.WriteLine("2. Rectangular");
             Console.WriteLine("0. Quit");
 
-            string select = Console.ReadLine();
+            string selection = Console.ReadLine();
 
             
-            switch (select)
+            switch (selection)
             {
                 case "1":
-                    Square sqr = new Square(-5);
-                    Console.WriteLine($"Square area is {sqr.CalcArea()}m²");
+                    Square square = new Square(-5);
+                    Console.WriteLine($"Square area is {square.CalcArea()}");
                     break;
 
                 case "2":
-                    Recangular rctgl = new Recangular(10,8);
-                    Console.WriteLine($"Rectangular area is {rctgl.CalcArea()}m²");
+                    Recangular recangular = new Recangular(10,8);
+                    Console.WriteLine($"Rectangular area : {recangular.CalcArea()}");
                     break;
 
                 case "0":
                     return;
 
                 default:
-                    Console.WriteLine("Not Found");
+                    Console.WriteLine("Not found");
                     break;
             }
 
